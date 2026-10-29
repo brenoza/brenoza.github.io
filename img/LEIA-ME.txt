@@ -1,0 +1,1 @@
+Pasta reservada para imagens e avatar. O avatar desta versão é desenhado com CSS, então nenhuma imagem externa é necessária.
